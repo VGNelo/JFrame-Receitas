@@ -1,4 +1,6 @@
 # JFrame Receitas
+
+
 Projeto simples em Java Swing para treinar GUI.
 
 ## Estrutura
@@ -9,3 +11,7 @@ Projeto simples em Java Swing para treinar GUI.
 ## Como executar
 javac -d bin src/ReceitasFrame.java
 java -cp bin ReceitasFrame
+1. Compile o código:
+   ```bash
+   javac -d bin src/ReceitasFrame.java
+
